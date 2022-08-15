@@ -2,4 +2,22 @@
 Some of the problems I solved in my JavaScript Applications course
 
 
-Experience gained with: In the "JS Applications" course you will learn what HTTP requests are and how to use them. You will learn about REST Services, what a Baas (backend as a service) is and how to work with it, what asynchronous code means (Promises, using async/await), what Templating and Routing are. During the course, you will create a Single Page Application using the techniques you have learned in previous lectures, which will be assessed. You will understand the architecture of an application and how to properly structure your applications. Towards the end of the course you will look at different design patterns and their practical direction, create your own web components using the Web Components standard and build a Wepback environment from scratch.
+Experience gained with: HTTP requests, REST Services, BAAS (backend as a service), asynchronous code (Promises, using async/await), Templating, Routing. Creating architecture of an application; design patterns and their practical direction; createing own web components using the Web Components standard; building a Wepback environment from scratch.
+
+Skills obtained: Web Application Creation.
+
+Course info: 2 months (28 June - 16 August 2022), 3-hour-long classes four times a week + homework. Some of the problems solved are found above.
+
+Other courses: 1 - "Python for Everybody" by University of Michigan. 5 simple introductory courses over February, March, and April 2021.
+
+2 - "Programming Basics with Python" by SoftUni. The official beginning of my education with SoftUni. July - September 2021. Final Grade: "6/6".
+
+3 - "Programming Fundamentals with Python" by SoftUni. September - December 2021. Final Grade: "6/6".
+
+4 - "Python Advanced" by SoftUni. Jan - Feb 2022. Final Grade: "6/6".
+
+5 - "Python OOP" by SoftUni. Feb - April 2022. Final Grade: "5.67/6".
+
+6 - "JavaScript Advanced" by SoftUni. May - July 2022. Final Grade: "6/6". 
+
+7 - "JavaScript Applications" by SoftUni. Final Grade: "6/6". See Above.
