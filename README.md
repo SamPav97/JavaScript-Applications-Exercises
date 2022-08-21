@@ -2,7 +2,7 @@
 Some of the problems I solved in my JavaScript Applications course
 
 
-Experience gained with: HTTP requests, REST Services, BAAS (backend as a service), asynchronous code (Promises, using async/await), Templating, Routing. Creating architecture of an application; design patterns and their practical direction; createing own web components using the Web Components standard; building a Wepback environment from scratch.
+Experience gained with: HTTP requests, REST Services, BAAS (backend as a service), asynchronous code (Promises, using async/await), Templating, Routing. Creating architecture of an application; design patterns and their practical direction; creating own web components using the Web Components standard; building a Webpack environment from scratch.
 
 Skills obtained: Web Application Creation.
 
